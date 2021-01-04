@@ -1,0 +1,33 @@
+.demo-image__lazy {
+    display: flex;
+    justify-content: space-between;
+}
+
+.el-image__inner {
+    vertical-align: top;
+    width: 250px;
+    height: 250px;
+}
+
+.el-main {
+    display: block;
+    flex: 1;
+    flex-basis: auto;
+    overflow: auto;
+    box-sizing: border-box;
+}
+
+.el-main[data-v-1cb73342] {
+    display: block;
+    flex: 1;
+    flex-basis: auto;
+    overflow: auto;
+    box-sizing: border-box;
+}
+
+.el-divider--horizontal {
+    display: block;
+    height: 1px;
+    width: 100%;
+    margin: 12px 0;
+}

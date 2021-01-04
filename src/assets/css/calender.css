@@ -1,0 +1,16 @@
+.calender {
+    margin: 5px 20px ;
+}
+
+.el-calendar-table .el-calendar-day {
+    box-sizing: border-box;
+    padding: 8px;
+    height: 30px!important;
+}
+
+.el-calendar__header {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 3px;
+    border-bottom: 1px solid #EBEEF5;
+}
